@@ -1,4 +1,5 @@
 # Ruby on Rails Tutorial sample application
+#### Can be seen at : https://brians-sample-app.herokuapp.com/
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
